@@ -12,7 +12,6 @@ public class Main {
         Model model = new Model();
         new Controller(view, model);
 
-
     }
 
 }
